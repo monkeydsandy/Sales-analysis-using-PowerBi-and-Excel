@@ -3,7 +3,7 @@ Sales analysis using PowerBi and Excel
 
 1. Connecting Database with Power BI Desktop.
 2. Analyzing the tables and relations.
-3. Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions).
+3. Data Cleaning and ETL using Power Query Editor with DAX (Data Analysis Expressions).
 4. Developing an Interactive BI Dashboard / Report.
 
 
